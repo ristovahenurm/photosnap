@@ -10,4 +10,11 @@
     tools:context="app.com.example.android.photosnap01.PlanViewActivity"
     android:weightSum="1">
 
+    <ImageView
+        android:id="@+id/planpicture"
+        android:src="@drawable/korb"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerInside"/>
+
 </FrameLayout>

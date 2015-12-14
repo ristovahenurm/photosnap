@@ -4,8 +4,6 @@ import android.app.ListActivity;
 import android.os.Bundle;
 import android.widget.ArrayAdapter;
 
-import app.com.example.android.photosnap01.R;
-
 public class MainActivity extends ListActivity {
 
     String[] itemname ={

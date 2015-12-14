@@ -11,3 +11,4 @@ public class PlanViewActivity extends ActionBarActivity {
         setContentView(R.layout.activity_plan_view);
     }
 }
+
